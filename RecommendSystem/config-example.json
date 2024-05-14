@@ -1,0 +1,14 @@
+{
+    "db":
+    {
+        "host": "localhost",
+        "user": "your user",
+        "password": "your password",
+        "database": "your database"
+    },
+    "Authorization": "hf_xxxxxx",
+    "Authorizations":["hf_xxxx","hf_aaaa",
+        "hf_ssss", "hf_ddd",
+        "hf_fffff", "hf_ggggg",
+        "hf_hhhh"]
+}
